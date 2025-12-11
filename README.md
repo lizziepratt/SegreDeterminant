@@ -2,4 +2,4 @@ This project contains a single Macaulay2 script which computes the Segre determi
 It contains several helper functions to be run at the beginning of the file.
 
 The code is written for personal research and reproducibility, and not intended for general distribution. 
-It accompanies the paper https://arxiv.org/abs/2505.09204.
+It accompanies the paper "The Segre Determinant," which may be found at https://arxiv.org/abs/2505.09204.
